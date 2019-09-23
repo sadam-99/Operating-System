@@ -1,0 +1,27 @@
+* Main file to run is : os_project.c
+* By executing the commnand on terminal:
+./a.out 11 f1.txt f2.txt f3.txt f4.c f5.txt f6.txt f7.txt f8.yml f9.txt f10.txt f11.c output.txt
+
+* The output of the Project 1 can be seen in the output.txt file
+
+* All the Input Files are available in this folder only. 
+
+* Name of Output File where the Results can be viewed-
+  output.txt 
+
+
+* Names of Input Files-
+        f1.txt
+ 	f2.txt 
+	f3.txt
+ 	f4.c
+ 	f5.txt
+ 	f6.txt
+ 	f7.txt 
+	f8.yml
+ 	f9.txt
+ 	f10.txt
+ 	f11.c 
+		
+
+* a.out is a compiled executable file for the Code.
